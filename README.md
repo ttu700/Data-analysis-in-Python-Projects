@@ -27,4 +27,5 @@ Dive into my Page View Time Series Visualizer project, where I leverage Pandas, 
 
 ## [Project 5: Sea Level Predictor](https://github.com/ttu700/Data-analysis-in-Python-Projects/tree/1212e8f9b89dd80e80af205b6387ae1124ed9bce/freecodecamp%20projects/p5%20sea-level-predictor) 
 Explore my Sea Level Predictor project, where I utilize Pandas, Matplotlib, and Scipy to analyze a dataset depicting global average sea level changes since 1880. The goal is to predict sea level changes up to the year 2050 using linear regression.
+
 ![image](https://github.com/ttu700/Data-analysis-in-Python-Projects/assets/68859758/cbaa138d-7f37-4018-b486-e8197c43dc08)
